@@ -201,12 +201,6 @@ a {
 .hide {
   display: none;
 }
-.post-message {
-  color: #a3a3a3 !important;
-}
-.global-nav h4 {
-  color: #a3a3a3 !important;
-}
 @media screen and (max-width: 1040px) {
   .inner {
     width: 100%;
