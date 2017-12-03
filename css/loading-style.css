@@ -79,3 +79,7 @@
         transform: rotate(360deg);
     }
 }
+
+.post-message.publisher-anchor-color{
+    color:#f5f5f5
+}
